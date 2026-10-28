@@ -16,3 +16,4 @@ __pycache__/
 !.github/workflows/
 !.github/workflows/*.yml
 !.github/workflows/*.yaml
+!.github/workflows/import-jobs.yml
