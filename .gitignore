@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.env.*
+
+# Editor / OS cruft
+.DS_Store
+
+# Keep GitHub workflow files tracked
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
+!.github/workflows/*.yaml
